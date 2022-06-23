@@ -77,10 +77,9 @@ html , body {
 }
 .web2{
     color: rgb(90, 86, 86);
-    font-size: 20px;
     transition: all 0.4s ease;
-    display: inline;
-    padding-left: 330px;
+    display: inline-block;
+    padding-left: 320px;
     font-family: 'Mitr', sans-serif;      
 }
 .web2:hover{
@@ -88,10 +87,9 @@ html , body {
 }
 .web3{
     color: rgb(90, 86, 86);
-    font-size: 20px;
     transition: all 0.4s ease;
     font-family: 'Mitr', sans-serif;
-    display: inline;
+    display: inline-block;
     padding-left: 110px;
 }
 .web3:hover{
@@ -135,4 +133,5 @@ html , body {
     font-family: 'Mitr', sans-serif;     
     font-size: 16px;
     font-weight: 600; 
+    letter-spacing: 1px;
 }
