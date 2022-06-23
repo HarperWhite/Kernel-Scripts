@@ -1,0 +1,135 @@
+html , body {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+}
+.main {
+    background-color: rgb(51, 49, 49);
+}
+.main1 {
+    color: rgb(236, 235, 235);
+    padding: 10px;
+    padding-left: 50px;
+    display: inline-block;
+    transition: all 0.6s ease;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.main1:hover {
+    color: rgb(119, 116, 116);
+}
+.income1 {
+    color: rgb(236, 235, 235);
+    padding: 10px;
+    display: inline-block;
+    transition: all 0.6s ease;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.income1:hover {
+    color: rgb(119, 116, 116);
+}
+.tobeit {
+    color: rgb(236, 235, 235);
+    padding: 10px;
+    padding-left: 850px;
+    display: inline-block;
+    transition: all 0.6s ease;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+.tobeit:hover {
+    color: rgb(119, 116, 116);
+}
+.savings1 {
+    color: rgb(236, 235, 235);
+    padding: 10px;
+    display: inline-block;
+    transition: all 0.6s ease;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.savings1:hover {
+    color: rgb(119, 116, 116);
+}
+.coming {
+    padding: 10px;
+    color: rgb(54, 53, 53);
+    font-size: 50px;
+    text-align: center;
+}
+.web{
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(54, 53, 53);
+    font-family: 'Mitr', sans-serif;
+    display: inline-block;
+}
+.web1{
+    color: rgb(121, 118, 118);
+    font-size: 20px;
+    font-family: 'Mitr', sans-serif;
+    display: inline-block;
+}
+.web2{
+    color: rgb(90, 86, 86);
+    font-size: 20px;
+    transition: all 0.4s ease;
+    display: inline;
+    padding-left: 330px;
+    font-family: 'Mitr', sans-serif;      
+}
+.web2:hover{
+    color: rgb(119, 116, 116);
+}
+.web3{
+    color: rgb(90, 86, 86);
+    font-size: 20px;
+    transition: all 0.4s ease;
+    font-family: 'Mitr', sans-serif;
+    display: inline;
+    padding-left: 110px;
+}
+.web3:hover{
+    color: rgb(119, 116, 116);
+}
+.pic1 {
+    width: 200px;
+    padding-left: 375px;
+}
+.pic2 {
+    width: 215px;
+    padding-left: 195px;
+    padding-bottom: 35px;
+}
+.button {
+    align-items: center;
+    background: none;
+    color: black;
+    border: 1;
+    letter-spacing: 1px;
+    border-radius: 100px;
+    font-family: 'Mitr', sans-serif;      
+    font-size: 16px;
+    font-weight: 600;
+    max-width: 480px;
+    min-height: 40px;
+    min-width: 0px;
+    position: relative;
+    overflow: hidden;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  
+.button:hover {
+    color: white;
+    background: rgb(51, 49, 49);
+}
