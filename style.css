@@ -132,4 +132,7 @@ html , body {
 .button:hover {
     color: white;
     background: rgb(51, 49, 49);
+    font-family: 'Mitr', sans-serif;     
+    font-size: 16px;
+    font-weight: 600; 
 }
